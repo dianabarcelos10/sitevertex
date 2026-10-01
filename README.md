@@ -75,13 +75,13 @@ Algumas decisões tomadas pensando na experiência do usuário foram:
 + Evitar excesso de informações na tela: Utiliza o carrossel de imagens para mostrar os três idiomas sem poluir a visualização.
 + Transparência na tabela de preços: Exibe o comparativo entre mensal e anual em cartões para o usuário decidir sem surpresas.
 + Uso de provas sociais e selos: Insere empresas parceiras e selo de garantia de 7 dias para passar segurança antes da compra.
-  ## Dificuldades encontradas
-  Uma das dificuldades foi organizar os cards dos produtos.
-  O problema foi resolvido utilizando o sistema ROW e COL do Bootstrap.
-  Outra dificuldade foi deixar o site adaptado para celulares.
-  Por isso, foram utilizadas classes responsivas do Bootstrap.
-  ## Melhorias futuras
- Futuras melhorias para o projeto:
+ ## Dificuldades encontradas
+Uma das dificuldades foi organizar os cards dos produtos.
+O problema foi resolvido utilizando o sistema ROW e COL do Bootstrap.
+Outra dificuldade foi deixar o site adaptado para celulares.
+Por isso, foram utilizadas classes responsivas do Bootstrap.
+## Melhorias futuras
+Futuras melhorias para o projeto:
 + Página individual de cursos: Uma página dedicada a cada idioma para que o aluno possa entender detalhadamente o conteúdo do seu interesse.
 + Formulário de contato: Um canal direto para tirar dúvidas e solicitar informações.
 + Comunidade interativa para alunos: Um espaço de interação onde os estudantes possam praticar o idioma que estão aprendendo uns com os outros.
